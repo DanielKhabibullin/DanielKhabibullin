@@ -22,7 +22,7 @@
 
 - :telescope: I’m looking for a job as a Junior Frontend Developer to be a part of pretty team to create usefull webApps.
 
-- :zap: In my free time, I'm raising my daughter, training karate-do and keeping learning JS.
+- :zap: In my free time, I'm raising my daughter, training karate-do and keep learning JS.
 
 - :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/Khabibullin_Daniel)
 
