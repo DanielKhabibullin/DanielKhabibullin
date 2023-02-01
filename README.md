@@ -18,7 +18,7 @@
 
 ---
 
-### :man_technologist: About Me : I am a Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+### :man_technologist: About Me : I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - :telescope: I’m looking for a job as a Junior Frontend Developer to be a part of pretty team to create usefull webApps.
 
